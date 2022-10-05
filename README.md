@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aarize29
 - 👀 I’m interested in ...Mobile App also Web Development And JAVA language
 - 🌱 I’m currently learning ...JAVA and Web Development
-- 💞️ I’m looking to collaborate on ...OpenSourceProject
+- 💞️ I’m looking to collaborate on ...OpenSourceProject and Build some amazing projects
 - 📫 How to reach me https://www.linkedin.com/in/shams-aarize-6b18a1202
 
 <!---
