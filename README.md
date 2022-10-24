@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React ,JavaScript,HTML,CSS**
 
-- 📫 How to reach me **heymann955@gmail.com**
+- 📫 How to reach me **heymann955@gmail.com** or **1ds21ai045@dsce.edu.in**
 
 - ⚡ Fun fact **I love to code and develop new things**
 
