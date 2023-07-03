@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aarize</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+ <img 
+      width="50%" 
+      src="https://user-images.githubusercontent.com/2728804/87165860-1836f700-c2a1-11ea-9b33-8b3f455db9b9.gif" />
+</p>
+
+
 - 🌱 I’m currently learning **React JS ,Node ,MongoDB**
 
 - 💬 Ask me about **React ,JavaScript,HTML,CSS**
