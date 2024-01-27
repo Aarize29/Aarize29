@@ -8,9 +8,9 @@
 </p>
 
 
-- 🌱 I’m currently learning **React JS ,Node ,MongoDB**
+- 🌱 I’m currently learning advance concept of **React JS, NextJs, Docker, Node ,MongoDB, Typescript**
 
-- 💬 Ask me about **React ,JavaScript,HTML,CSS**
+- 💬 Ask me about **React, Node, Express, JavaScript, HTML, CSS, Full Stack Development**
 
 - 📫 How to reach me **heymann955@gmail.com** or **1ds21ai045@dsce.edu.in**
 
