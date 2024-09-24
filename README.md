@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node, Express, JavaScript, HTML, CSS, Full Stack Development**
 
-- 📫 How to reach me **heymann955@gmail.com** or **shamsaarize@gmail.com**
+- 📫 How to reach me  **shamsaarize@gmail.com** or **heymann955@gmail.com**
 
 - ⚡ Fun fact **I love to code and develop new things**
 
