@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarize</h1>
-<h3 align="center">Remote Full-Stack Developer | AWS Enthusiast | Building Secure, Scalable Systems with ❤️</h3>
+<h3 align="center">Platform Engineer | Cloud Infrastructure Builder | DevOps & AIOps Enthusiast | Backend Systems Engineer</h3>
 
 <p align="center">
   <img width="50%" src="https://user-images.githubusercontent.com/2728804/87165860-1836f700-c2a1-11ea-9b33-8b3f455db9b9.gif" />
@@ -7,99 +7,147 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
 
-I’m Shams Aarize Siddique — a curious builder, backend thinker, and full-stack developer with a deep appreciation for clean architecture and developer empathy. I love writing code that scales, automates infrastructure, and solves real-world problems.
+I’m **Shams Aarize Siddique** — a builder focused on platform engineering, cloud infrastructure, backend systems, and modern DevOps automation.
 
-🌍 I'm currently working remotely with US-based teams and have:
-- 🛠 Built infrastructure for analytics platforms using AWS CDK, Lambda, Cognito, and SQS
-- 💰 Cut cloud costs by 90% using Zero Trust & IAM DB access
-- ⚙️ Designed and deployed full-stack services using React, GraphQL, and PostgreSQL
-- 🚀 Automated production-grade CI/CD workflows with GitHub Actions and Docker
-- 🧠 Combined ML APIs with scalable UI systems (OpenAI, custom ML models)
+I design and operate scalable cloud platforms, automate infrastructure, optimize cloud costs, and build developer-first systems that make software delivery faster, safer, and more reliable.
 
----
+My work sits at the intersection of:
 
-🎯 Current Focus
-
-- Advancing my cloud infrastructure design skills with AWS
-- Building scalable React-based SaaS UIs
-- Designing better DevOps pipelines for rapid iteration
-- Growing as a backend/system engineer
-- Learning distributed systems and AI production workflows
+- ☁️ Cloud Infrastructure  
+- ⚙️ Platform Engineering  
+- 🔐 Zero-Trust Security  
+- 📦 DevOps Automation  
+- 🤖 AI-powered Operations (AIOps)  
+- 🧠 Backend Systems Development  
 
 ---
 
-🤝 Open to Collaborate
+## 🌍 What I’m Building
 
-✨ Are you working on something cool in:
-- AI tools 🧠
-- Developer productivity ⚙️
-- Infrastructure optimization 🏗️
-- SaaS products 💻
-
-I’m happy to collaborate on open-source projects, startup MVPs, or ideas you’ve been procrastinating. Let's build something impactful.
-
-📬 Just shoot a message or email. I’m always happy to chat!
+- 💰 Built FinOps automation systems reducing cloud costs by **$50K+ monthly**
+- 🏗 Provisioned complete AWS environments using **Terraform modular architecture**
+- 🔐 Built Zero-Trust secure access systems with **AWS SSM, socat, and IAM authentication**
+- 🚀 Designed CI/CD pipelines for production-grade **ECS microservices**
+- 🌍 Built Disaster Recovery systems with **Route53 failover/failback automation**
+- 📊 Automated compliance evidence collection (**HIPAA, SOC, HITRUST**)
+- 🧠 Built AI-powered applications integrating **OpenAI APIs** and custom ML workflows
 
 ---
 
-🔍 Looking For
+## 🎯 Current Focus
 
-📢 I’m actively looking for:
-- Full-time backend or full-stack engineering roles
-- Remote-first product companies
-- Teams working with AWS, TypeScript, and scalable architecture
-- Builders working at the intersection of cloud and AI
-
-📫 Reach me at:  
-- 📧 shamsaarize@gmail.com / heymann955@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shams-aarize-6b18a1202)  
-- 📹 [YouTube](https://www.youtube.com/channel/UCiypYuku3MLwz8r89PDUkLg/featured)
+- Platform Engineering & Internal Developer Platforms (IDPs)
+- Kubernetes & Cloud-Native Infrastructure
+- GitOps workflows and deployment automation
+- AIOps (incident intelligence, anomaly detection, self-healing systems)
+- Observability (logs, metrics, tracing)
+- Distributed Systems & Reliability Engineering
 
 ---
 
-💡 Tech I Love Working With:
+## 🤝 Open to Collaborate
+
+Interested in collaborating on:
+
+- Platform tooling ⚙️
+- Infrastructure automation 🏗️
+- DevOps & GitOps systems 🚀
+- AIOps & AI tooling 🤖
+- Backend systems & APIs 🔥
+
+Always open to building impactful systems.
+
+---
+
+## 🔍 Looking For
+
+📢 Open to opportunities in:
+
+- Platform Engineering
+- Cloud Infrastructure Engineering
+- DevOps Engineering
+- Site Reliability Engineering (SRE)
+- Backend Engineering
+
+Interested in teams solving hard infrastructure, reliability, cloud, and AI problems.
+
+📫 Reach me at:
+
+- 📧 shamsaarize@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shams-aarize-6b18a1202  
+- 🐙 GitHub: https://github.com/Aarize29  
+
+---
+
+## 💡 Tech I Work With
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
 ---
 
-📌 Highlight Projects
+## 📌 Highlight Projects
 
-🔸 FlowForge.ai  
-Drag-and-drop ML pipeline builder that integrates OpenAI + custom nodes + graph traversal.  
-🧠 React Flow, Node.js, Cloudinary, OpenAI API, Vercel
+### 🔸 FlowForge.ai  
+Interactive ML pipeline builder integrating AI workflows and graph-based execution.
 
-🔸 InstaLucky  
-A platform to analyze Instagram reel comments using ML models.  
-🔐 Secure OAuth, Sentiment Analysis, Flask, MongoDB, Docker, GitHub Actions
+**Tech Stack:** React Flow, Node.js, OpenAI API, Cloudinary
 
 ---
 
-📚 Favorite Quote
+### 🔸 InstaLucky  
+Instagram sentiment analysis platform with OAuth automation and CI/CD deployment pipelines.
 
-> "Stay hungry, stay foolish." – Steve Jobs
-
-> “You can’t build a reputation on what you are going to do.” – Henry Ford
+**Tech Stack:** Flask, MongoDB, Docker, GitHub Actions
 
 ---
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAarize29%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
+### 🔸 FinOps Automation Engine  
+AWS CUR + Athena-based cloud cost intelligence engine saving **$50K+ monthly**.
+
+**Tech Stack:** AWS Athena, S3, CUR, Python
+
+---
+
+### 🔸 SSM Tunnel Manager  
+Secure infrastructure access system built on AWS SSM + socat + IAM auth.
+
+**Tech Stack:** AWS SSM, Linux, socat, IAM
+
+---
+
+## 📚 Favorite Quote
+
+> "First solve the problem. Then write the code." – John Johnson
+
+> "Automation applied to an efficient operation will magnify the efficiency." – Bill Gates
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarize29&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarize29&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarize29&layout=compact&theme=tokyonight" />
+</p>
+
